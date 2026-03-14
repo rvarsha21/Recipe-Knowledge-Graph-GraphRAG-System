@@ -80,7 +80,6 @@ Recipe_GraphRAG_Project/
 ├── demo_app.py
 ├── kg_triples.json
 ├── kg_nodes.json
-├── preprocessing scripts
 └── README.md
 ```
 
