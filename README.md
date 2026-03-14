@@ -78,7 +78,7 @@ Recipe_GraphRAG_Project/
 │
 ├── Final_Project_SMA_Recipe_Graphrag_Presentation.pdf
 ├── demo_app.py
-├── kg_triples.json
+├── kg_network.html
 ├── kg_nodes.json
 └── README.md
 ```
