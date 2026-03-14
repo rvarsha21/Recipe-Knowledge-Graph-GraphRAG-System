@@ -98,17 +98,14 @@ See `Final_Project_SMA_Recipe_Graphrag_Presentation.pdf` in this repository.
 # Tech Stack
 
 * Python
-* Neo4j
-* Cypher
+* Neo4j - Cypher Query
 * Large Language Models (LLMs)
-* Streamlit
-* Pandas
+* Streamlit - Pandas
 
 ---
 
 # Team
 
-Social Media Analytics — Final Project
 
 * Nandini Anand Kumar
 * Riju Hariharan
